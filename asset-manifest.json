@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prince-9211/React-form2/static/css/main.215e29cd.css",
+    "main.js": "/prince-9211/React-form2/static/js/main.42e7cfb6.js",
+    "static/js/453.10debf31.chunk.js": "/prince-9211/React-form2/static/js/453.10debf31.chunk.js",
+    "index.html": "/prince-9211/React-form2/index.html",
+    "main.215e29cd.css.map": "/prince-9211/React-form2/static/css/main.215e29cd.css.map",
+    "main.42e7cfb6.js.map": "/prince-9211/React-form2/static/js/main.42e7cfb6.js.map",
+    "453.10debf31.chunk.js.map": "/prince-9211/React-form2/static/js/453.10debf31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.215e29cd.css",
+    "static/js/main.42e7cfb6.js"
+  ]
+}
